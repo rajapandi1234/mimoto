@@ -54,7 +54,7 @@
 
         <!-- spring -->
         <spring.boot.version>3.2.3</spring.boot.version>
-        <session.redis.version>3.4.0</session.redis.version>
+        <session.redis.version>3.4.6</session.redis.version>
         <starter.redis.version>3.4.1</starter.redis.version>
 
         <!-- data -->
