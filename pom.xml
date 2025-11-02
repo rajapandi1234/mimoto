@@ -53,7 +53,7 @@
         <maven.javadoc.version>3.6.3</maven.javadoc.version>
 
         <!-- spring -->
-        <spring.boot.version>3.2.3</spring.boot.version>
+        <spring.boot.version>3.4.11</spring.boot.version>
 
 
         <!-- data -->
